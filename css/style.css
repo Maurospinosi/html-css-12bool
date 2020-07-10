@@ -21,3 +21,10 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+.nested{
+  background-color: lightcoral;
+  border: pink solid 1px;
+}
+.container .col-6{
+  padding: 5px;
+}
