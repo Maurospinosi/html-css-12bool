@@ -9,9 +9,7 @@
 }
  [class*="col-"]{
    height: 100%;
-   vertical-align: center;
    position: relative;
-   text-align: center;
 }
 .row{
   height: 300px;
